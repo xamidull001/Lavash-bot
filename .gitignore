@@ -19,4 +19,10 @@ rad.json
 #License-file
 *.flf
 #Test results file
+git clone https://github.com/Hamidull001/lavash-bot.git
+cd lavash-bot
+# ZIP faylni oching va fayllarni shu papkaga joylashtiring
+git add .
+git commit -m "Initial commit"
+git push origin main
 TestResults.xml
